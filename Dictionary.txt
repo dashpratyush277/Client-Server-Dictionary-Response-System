@@ -1,0 +1,6 @@
+Java: Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.
+Python: Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.
+Network: A Network is a collection of devices that are connected together, either physically or virtually, to allow the sharing of data and resources.
+Database: A Database is a structured collection of data that is stored and organized electronically.
+Algorithm: An Algorithm is a set of instructions designed to perform a specific task or solve a particular problem.
+Artificial Intelligence: Artificial Intelligence (AI) is the ability of a computer or machine to mimic the capabilities of the human mind, such as learning from experience, adapting to new situations, and solving problems.

@@ -1,0 +1,6 @@
+The project, "Client-Server Dictionary Generation System Using Java Socket Programming," aims to develop a networked application that allows clients to generate and query a dictionary from a centralized server. 
+Utilizing Java's robust socket programming capabilities, the system establishes a TCP/IP connection between multiple clients and a dedicated server. 
+The server handles requests from clients to add, delete, or retrieve word definitions in real-time, ensuring data consistency and availability. 
+The server maintains the dictionary data structure, while clients interact through a user-friendly interface. 
+This architecture not only enhances the efficiency of dictionary management but also demonstrates key concepts of network communication, concurrency, and distributed computing in Java. 
+The project underscores the importance of socket programming in building scalable and interactive applications.
